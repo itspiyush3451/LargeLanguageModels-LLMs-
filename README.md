@@ -2,17 +2,7 @@
 
 A comprehensive guide to understanding and building Large Language Models from the ground up. This repository contains step-by-step tutorials, code examples, and practical implementations covering the complete LLM pipeline.
 
-## Table of Contents
 
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Key Topics Covered](#key-topics-covered)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
